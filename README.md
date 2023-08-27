@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://badge.mediaplus.ma/darkblue/aarjouzi" width="450"></br>
+</p>
+
 <!--
 **AbdoArj/AbdoArj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
